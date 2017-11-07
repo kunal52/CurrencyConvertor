@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Currency Convertor</string>
+
+    <string-array name="country_name">
+        <item>australian dollar</item>
+        <item>bulgarian lev</item>
+        <item>brazilian real</item>
+        <item>canadian dollar</item>
+        <item>swiss franc</item>
+        <item>chinese yuan</item>
+        <item>czech koruna</item>
+        <item>danish krone</item>
+        <item>euro</item>
+        <item>british pound</item>
+        <item>hong kong dollar</item>
+        <item>croatian kuna</item>
+        <item>hungarian forint</item>
+        <item>indonesian rupiah</item>
+        <item>israeli new shekel</item>
+        <item>indian rupee</item>
+        <item>japanese yen</item>
+        <item>south korean won</item>
+        <item>mexican peso</item>
+        <item>malaysian ringgit</item>
+        <item>norwegian krone</item>
+        <item>new zealand dollar</item>
+        <item>philippine peso</item>
+        <item>polish zloty</item>
+        <item>romanian leu</item>
+        <item>russian ruble</item>
+        <item>swedish krona</item>
+        <item>singapore dollar</item>
+        <item>thai baht</item>
+        <item>us dollar</item>
+        <item>south african rand</item>
+    </string-array>
+
+    <string-array name="country_code">
+        <item>aud</item>
+        <item>bgn</item>
+        <item>brl</item>
+        <item>cad</item>
+        <item>chf</item>
+        <item>cny</item>
+        <item>czk</item>
+        <item>dkk</item>
+        <item>eur</item>
+        <item>gbp</item>
+        <item>hkd</item>
+        <item>hrk</item>
+        <item>huf</item>
+        <item>idr</item>
+        <item>ils</item>
+        <item>inr</item>
+        <item>jpy</item>
+        <item>krw</item>
+        <item>mxn</item>
+        <item>myr</item>
+        <item>nok</item>
+        <item>nzd</item>
+        <item>php</item>
+        <item>pln</item>
+        <item>ron</item>
+        <item>rub</item>
+        <item>sek</item>
+        <item>sgd</item>
+        <item>thb</item>
+        <item>usd</item>
+        <item>zar</item>
+    </string-array>
+
+    <string-array name="country_symbol">
+        <item></item>
+    </string-array>
+
+</resources>

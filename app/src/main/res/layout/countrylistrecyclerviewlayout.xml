@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="62dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+    <TextView
+        android:paddingTop="18dp"
+        android:paddingBottom="18dp"
+        android:textColor="#FF5354"
+        android:id="@+id/country_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:text="United Dollar"
+        android:textSize="22sp" />
+
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:alpha="0.5"
+        android:textColor="#FF5354"
+        android:layout_centerVertical="true"
+        android:textSize="15sp"
+        android:layout_toRightOf="@id/country_name"
+        android:id="@+id/country_code"
+        android:text="USD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_alignParentBottom="true"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#FF5354" />
+
+    <ImageView
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_done_black_24dp"
+        android:id="@+id/selected"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+</RelativeLayout>
